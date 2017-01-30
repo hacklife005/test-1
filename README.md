@@ -1,2 +1,3 @@
 # test-1
-ideya
+ideya: Easy Life 
+A ve B Sexslerin(insanlar) arasinda vaxt itirmeden program vasitesiyle esyalarin gonderilmesi.
