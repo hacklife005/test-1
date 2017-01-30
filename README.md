@@ -25,7 +25,7 @@
 AUDIENCE/АУДИТОРИЯ 
 
 1.Why is the application needed? ###rus### Зачем нужена программа?
-// Insanlar mes application vasitesiyle zakazlari verecey ve qebul edecek.
+// Insanlar oz esyalarini gondermek ucun mes application vasitesiyle sifarisleri verecey ve ya sifarisleri  qebul edecek. Application 250 m radiusunda olan istifadecilerine sifarisleri gondercek.
 
 
 Why is the audience? What are the age ranges and interests of potential site visitors? ###rus### Кто является аудиторией? Каковы возрастные диапазоны и интересы потенциальных посетителей сайта?
